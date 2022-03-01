@@ -1,0 +1,281 @@
+id: P2FFF2552
+initial_creation_type: input
+source_metadata:
+  title: Akṣayamatinirdeśa
+  language: sa
+  volumes:
+    616f0f5dfce84b85a628ec3ed368ce84:
+      title: '10th akṣaya: Prajñā'
+      base_file: '10th akṣaya: Prajñā.txt'
+      work_id: WB0D20470
+    5091732adb7943d5b91cdb9fae4f4a9c:
+      title: '11th akṣaya: Maitrī'
+      base_file: '11th akṣaya: Maitrī.txt'
+      work_id: WFF4D4FD2
+    fee8f26b7fad44f587ebd787ae2294a0:
+      title: '12th akṣaya: Karuṇā'
+      base_file: '12th akṣaya: Karuṇā.txt'
+      work_id: W58EFE8F9
+    c3c69e709dfc4cd59db61752958e3cd3:
+      title: '13th akṣaya: Muditā'
+      base_file: '13th akṣaya: Muditā.txt'
+      work_id: WB9D0944F
+    dd34daa9f89b4bf584679d199d2d5b44:
+      title: '14th akṣaya: Upekṣā'
+      base_file: '14th akṣaya: Upekṣā.txt'
+      work_id: W8878384B
+    ef9a115a2ea24cd4871bceeb815f30e3:
+      title: '15th aksaya: Divyacakṣuḥ'
+      base_file: '15th aksaya: Divyacakṣuḥ.txt'
+      work_id: W9AE40E29
+    2a062e7e4c11443a8a95a5cdf5a8cef7:
+      title: '16th aksaya: Divyaśrotra'
+      base_file: '16th aksaya: Divyaśrotra.txt'
+      work_id: WFFBB0FF3
+    d7ba4a9b692147b4812ed8d9426af7f1:
+      title: '17th akṣaya: Paracittajñāna'
+      base_file: '17th akṣaya: Paracittajñāna.txt'
+      work_id: W6464A963
+    279ccd9016f14a1aa353de8ffcfe2739:
+      title: '18th aksaya: Pūrvanivāsānusmṛti'
+      base_file: '18th aksaya: Pūrvanivāsānusmṛti.txt'
+      work_id: W0EE9130E
+    5abcea3361d04ca687be016cf460be8e:
+      title: '19th aksaya: Ṛddhividhijñāna_abhijñā'
+      base_file: '19th aksaya: Ṛddhividhijñāna_abhijñā.txt'
+      work_id: WCECEE27B
+    8ffd7be216144745a4e6806c73816cc4:
+      title: '1st akṣaya: Cittotpāda'
+      base_file: '1st akṣaya: Cittotpāda.txt'
+      work_id: W262DD085
+    7113bf18d1444456b5816d2bca6da377:
+      title: '20th-23rd aksaya: Saṃgrahavastu'
+      base_file: '20th-23rd aksaya: Saṃgrahavastu.txt'
+      work_id: WAD2CADA2
+    ca24a1bf6c01473da93310a9cf961ba5:
+      title: '24th aksaya: Arthapratisaṃvid'
+      base_file: '24th aksaya: Arthapratisaṃvid.txt'
+      work_id: W34ABABE2
+    868046597c754fe8b8df2c99d022c424:
+      title: '25th aksaya: Dharmapratisaṃvid'
+      base_file: '25th aksaya: Dharmapratisaṃvid.txt'
+      work_id: W4B18258D
+    6c6cc54b43c24069b0e6448e25ab2066:
+      title: '26th aksaya: Niruktipratisaṃvid'
+      base_file: '26th aksaya: Niruktipratisaṃvid.txt'
+      work_id: WC5D674DB
+    8a035eaab3e2475282eedd81a4b23e62:
+      title: '27th aksaya: Pratibhānapratisaṃvid'
+      base_file: '27th aksaya: Pratibhānapratisaṃvid.txt'
+      work_id: W0487252E
+    746729bb791d47bc8b39c44ac6148daa:
+      title: '28th akṣaya: Arthapratisaraṇa'
+      base_file: '28th akṣaya: Arthapratisaraṇa.txt'
+      work_id: W2D2F099F
+    161367f47b174505b109df1c0cdce187:
+      title: '29th akṣaya: Jñānapratisaraṇa'
+      base_file: '29th akṣaya: Jñānapratisaraṇa.txt'
+      work_id: W043CB344
+    f920da9746204a76b9aaf539dbe4f393:
+      title: '2nd akṣaya: Āśaya'
+      base_file: '2nd akṣaya: Āśaya.txt'
+      work_id: W69F96DB9
+    7efdad264838425391665a41aaf9fe99:
+      title: '30th akṣaya: Nītārthasūtrapratisaraṇa'
+      base_file: '30th akṣaya: Nītārthasūtrapratisaraṇa.txt'
+      work_id: W3A82C5FB
+    bba7d9a6d95f465d888e9ae52316deac:
+      title: '31th akṣaya: Dharmatāpratisaraṇa'
+      base_file: '31th akṣaya: Dharmatāpratisaraṇa.txt'
+      work_id: W3E93DB1D
+    368715e7c9be4f2ead3c7afd22d69d97:
+      title: '32nd akṣaya: Puṇyasaṃbhāra'
+      base_file: '32nd akṣaya: Puṇyasaṃbhāra.txt'
+      work_id: W5AA6716C
+    27c84f9861ce493eafa2b4ada454a85b:
+      title: '33rd akṣaya: Jñānasaṃbhāra'
+      base_file: '33rd akṣaya: Jñānasaṃbhāra.txt'
+      work_id: W40D54947
+    9d9651b67707409688d3d6a0113b206a:
+      title: '34th akṣaya: Kāyasmṛtyupasthāna'
+      base_file: '34th akṣaya: Kāyasmṛtyupasthāna.txt'
+      work_id: W5364C575
+    76464292cd804351a1750ec0a0e10c1a:
+      title: '35th akṣaya: Vedanāsmṛtyupasthāna'
+      base_file: '35th akṣaya: Vedanāsmṛtyupasthāna.txt'
+      work_id: WFC95D55D
+    f5443dbb3f0641d4b116394a1008688d:
+      title: '36th akṣaya: Cittasmṛtyupasthāna'
+      base_file: '36th akṣaya: Cittasmṛtyupasthāna.txt'
+      work_id: WC27447C4
+    0723cd5427c24bf782d75624ef462ccc:
+      title: '37th akṣaya: Kāyasmṛtyupasthāna'
+      base_file: '37th akṣaya: Kāyasmṛtyupasthāna.txt'
+      work_id: W55C9EED3
+    471a837a2f914398b3d0f19594351c9c:
+      title: '38th-41st akṣaya: Catuḥsamyakprahāṇa'
+      base_file: '38th-41st akṣaya: Catuḥsamyakprahāṇa.txt'
+      work_id: W565B5B70
+    1505ce68b59040f5aab0d24a9f7c75b3:
+      title: '3rd akṣaya: Prayoga'
+      base_file: '3rd akṣaya: Prayoga.txt'
+      work_id: W07C5CEE3
+    dfeefbe2b7534780afea24087882d761:
+      title: '42nd-45th akṣaya: Caturṛddhipāda'
+      base_file: '42nd-45th akṣaya: Caturṛddhipāda.txt'
+      work_id: W494F8A9A
+    f66aa8a428174f339ceb590b670e08eb:
+      title: '45th-50th akṣaya: Pañca_indriya'
+      base_file: '45th-50th akṣaya: Pañca_indriya.txt'
+      work_id: WF6534E8F
+    db7e1a7f4c084d2f88aca4d67fdf8ee3:
+      title: '4th akṣaya: Adhyāśaya'
+      base_file: '4th akṣaya: Adhyāśaya.txt'
+      work_id: W1B9DC457
+    1438ce50ab254ce08dc8b4ee0eb4c739:
+      title: '51st-55th akṣaya: Pañcabala'
+      base_file: '51st-55th akṣaya: Pañcabala.txt'
+      work_id: W5BD084A4
+    48171fd88acf4533a474109d1156c363:
+      title: '56th-62nd akṣaya: Saptabodhyaṅga'
+      base_file: '56th-62nd akṣaya: Saptabodhyaṅga.txt'
+      work_id: W79A8CF74
+    8931eceae95e4df8bae4cb8aeb298868:
+      title: '5th akṣaya: Dāna'
+      base_file: '5th akṣaya: Dāna.txt'
+      work_id: W42DD4854
+    04906877f59041068956415a139b97e0:
+      title: '63rd-70th akṣaya: Āryāṣṭāṅgamārga'
+      base_file: '63rd-70th akṣaya: Āryāṣṭāṅgamārga.txt'
+      work_id: WD7C8BEE5
+    a3c590fc49714aebaa8e4e54b298c1c1:
+      title: '6th akṣaya: Śīla'
+      base_file: '6th akṣaya: Śīla.txt'
+      work_id: W533DE3B9
+    bdd8ec7d7c7f492cbbbc9aa1dde15df3:
+      title: '71st akṣaya: Śamatha'
+      base_file: '71st akṣaya: Śamatha.txt'
+      work_id: W4DC8BBD6
+    c1daa342a04247588f53f3ffdcbe7579:
+      title: '72nd akṣaya: Vipaśyanā'
+      base_file: '72nd akṣaya: Vipaśyanā.txt'
+      work_id: W98C0AD30
+    a60e8c52ba4e476ea2e9ea31f65fd55d:
+      title: '73rd akṣaya: Dhāraṇī'
+      base_file: '73rd akṣaya: Dhāraṇī.txt'
+      work_id: W59E463BF
+    63098da80dc84bd68edf25ad6220a008:
+      title: '74th akṣaya: Pratibhāna'
+      base_file: '74th akṣaya: Pratibhāna.txt'
+      work_id: W43A12E3E
+    4dd9ed6ce003497a8fa0be86c10406e6:
+      title: '75th – 78th akṣaya: Dharmoddāna'
+      base_file: '75th – 78th akṣaya: Dharmoddāna.txt'
+      work_id: W5DAF6F0D
+    ec8451e48a5549578a9e94af2103360c:
+      title: '79th akṣaya: Ekāyano Mārgaḥ'
+      base_file: '79th akṣaya: Ekāyano Mārgaḥ.txt'
+      work_id: WDAAA20B1
+    306ffee393624a0897b1853ea7e38ec3:
+      title: '7th akṣaya: Kṣānti'
+      base_file: '7th akṣaya: Kṣānti.txt'
+      work_id: WD799EF9F
+    b0bbcfc1e5424dbd8bd3193b10e7fb7e:
+      title: '80th akṣaya: Upāya'
+      base_file: '80th akṣaya: Upāya.txt'
+      work_id: W694DB879
+    42243c9544e848eb8ecf3b8a3c8157c9:
+      title: '8th akṣaya: Vīrya'
+      base_file: '8th akṣaya: Vīrya.txt'
+      work_id: W16581C55
+    f2c05c8717fb4ca392f3ba31bdc6600b:
+      title: '9th akṣaya: Dhyāna'
+      base_file: '9th akṣaya: Dhyāna.txt'
+      work_id: WE8A1F8E0
+    e7c87bcf596b4af48aa649c19afc2cf2:
+      title: I. Nidāna
+      base_file: I. Nidāna.txt
+      work_id: W1042E08A
+    59d5f5575ef64244a952897d949242bd:
+      title: II. Upodghāta
+      base_file: II. Upodghāta.txt
+      work_id: W9695C519
+    9a11b4fde3a94cd7ac0c92a374323f6a:
+      title: III. Dharmamūla
+      base_file: III. Dharmamūla.txt
+      work_id: W9BCAA9EB
+    7d347c3d386142b0b2cf379f14c62b73:
+      title: IV. Tatphala
+      base_file: IV. Tatphala.txt
+      work_id: W9897FAC4
+    732be16bede14bbc85912bb94d551bab:
+      title: IX. Nirdeśabalaprāpti
+      base_file: IX. Nirdeśabalaprāpti.txt
+      work_id: W016E49D7
+    beb0517631374c31bc52f72d02ed9173:
+      title: Title
+      base_file: Title.txt
+      work_id: WEBB68B52
+    7bffc5ce058b473e80277667a905ed35:
+      title: V. Svaparārthakriyā
+      base_file: V. Svaparārthakriyā.txt
+      work_id: WE932AF39
+    8c07047f9f044bae9d70815887c51a77:
+      title: VI. Kṛpā
+      base_file: VI. Kṛpā.txt
+      work_id: W777788D7
+    1825aafbd6ae4a92872eee55d8900771:
+      title: VII. Pariṣkāra
+      base_file: VII. Pariṣkāra.txt
+      work_id: W19FF13EE
+    20f9374b4a6d4e129b072cdfc2cc9df1:
+      title: VIII. Paripākabala
+      base_file: VIII. Paripākabala.txt
+      work_id: W59DFB1B6
+    216af5c34c7747d1898924e698fc6646:
+      title: X. Tadupāyajñāna
+      base_file: X. Tadupāyajñāna.txt
+      work_id: W25224074
+    edb31f4b11bb42579c171fbdeebafb9f:
+      title: XI. Saṃbhāramārga
+      base_file: XI. Saṃbhāramārga.txt
+      work_id: W3CC130F3
+    bbc55bf57a2442abb0604dd3ca27ce49:
+      title: XII. Prayogamārga
+      base_file: XII. Prayogamārga.txt
+      work_id: WF02C3FFF
+    3477f02db19a49619aeef4b493350408:
+      title: XIII. Darśanamārga
+      base_file: XIII. Darśanamārga.txt
+      work_id: W8A2F2C1D
+    811db05869ae4e53a23c758aa5d54b7d:
+      title: XIV. Bhāvanāmārga
+      base_file: XIV. Bhāvanāmārga.txt
+      work_id: W2483D0FD
+    5f3b09cea02e483f96008ad1727ea2a7:
+      title: XIX. Dharmacakrapravartana
+      base_file: XIX. Dharmacakrapravartana.txt
+      work_id: W295ACA11
+    ba0d221a293344e7af360827a25c0507:
+      title: XV. Tatprayoga
+      base_file: XV. Tatprayoga.txt
+      work_id: W1D641074
+    a28309fb911649faab6a5c66a9b9a887:
+      title: XVI. Vyākaraṇaprāpti
+      base_file: XVI. Vyākaraṇaprāpti.txt
+      work_id: W4FEED378
+    392a6910e49143dab844fb38f8886b56:
+      title: XVII. Tatprāptivyavasthāpanā
+      base_file: XVII. Tatprāptivyavasthāpanā.txt
+      work_id: WB71001CB
+    e0cefae3c6f44a62abefaf9de1a87f4d:
+      title: XVIII. Pratyekabodhi
+      base_file: XVIII. Pratyekabodhi.txt
+      work_id: WF4DF6282
+    2946aec0acff46b1a7182a968b47b160:
+      title: XX. Parindanā
+      base_file: XX. Parindanā.txt
+      work_id: WB9462F4B
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:09:12.560894'
+last_modified_at: '2022-03-01T21:09:12.560902'

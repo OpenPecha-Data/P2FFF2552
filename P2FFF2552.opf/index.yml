@@ -1,0 +1,412 @@
+id: 3919138d16e0415f81cf5b1431229e24
+annotation_type: index
+revision: '00001'
+annotations:
+  237ebd2ab98243a5bb18f32d40ce657f:
+    work_id: WB0D20470
+    span:
+      vol: '10th akṣaya: Prajñā'
+      start: 0
+      end: 32312
+  b5026671622c401b82a5200436b85155:
+    work_id: WFF4D4FD2
+    span:
+      vol: '11th akṣaya: Maitrī'
+      start: 0
+      end: 4669
+  f1c5d344c9e84013bf26f39ab19c9b3a:
+    work_id: W58EFE8F9
+    span:
+      vol: '12th akṣaya: Karuṇā'
+      start: 0
+      end: 3442
+  43423389875647e6b8b0ab1984a2141d:
+    work_id: WB9D0944F
+    span:
+      vol: '13th akṣaya: Muditā'
+      start: 0
+      end: 2415
+  0c75730819844e9ea0b0ea5f0984bce7:
+    work_id: W8878384B
+    span:
+      vol: '14th akṣaya: Upekṣā'
+      start: 0
+      end: 2779
+  a153076dc7d74abe96a1002929d607b5:
+    work_id: W9AE40E29
+    span:
+      vol: '15th aksaya: Divyacakṣuḥ'
+      start: 0
+      end: 2984
+  c9b856886728436997b4a38ab7f28bc3:
+    work_id: WFFBB0FF3
+    span:
+      vol: '16th aksaya: Divyaśrotra'
+      start: 0
+      end: 3829
+  51806b3817c546359acde5ecbb46be60:
+    work_id: W6464A963
+    span:
+      vol: '17th akṣaya: Paracittajñāna'
+      start: 0
+      end: 3961
+  03cb3629f7c84dbbbb99c16c13d16b9c:
+    work_id: W0EE9130E
+    span:
+      vol: '18th aksaya: Pūrvanivāsānusmṛti'
+      start: 0
+      end: 2514
+  6898db16a0ba4fd6b4e3ca555340994e:
+    work_id: WCECEE27B
+    span:
+      vol: '19th aksaya: Ṛddhividhijñāna_abhijñā'
+      start: 0
+      end: 3626
+  027d13f2504e4b4eaaf814cb9fcd75e9:
+    work_id: W262DD085
+    span:
+      vol: '1st akṣaya: Cittotpāda'
+      start: 0
+      end: 4053
+  94e80190a27f4c589e10b1854170d776:
+    work_id: WAD2CADA2
+    span:
+      vol: '20th-23rd aksaya: Saṃgrahavastu'
+      start: 0
+      end: 3108
+  3c970bed627b45d5bb001528d010b7b4:
+    work_id: W34ABABE2
+    span:
+      vol: '24th aksaya: Arthapratisaṃvid'
+      start: 0
+      end: 2754
+  51e6e8057dcb4cafa19e562c7a291f3b:
+    work_id: W4B18258D
+    span:
+      vol: '25th aksaya: Dharmapratisaṃvid'
+      start: 0
+      end: 1854
+  70c95b42523e4bc980663c6860322642:
+    work_id: WC5D674DB
+    span:
+      vol: '26th aksaya: Niruktipratisaṃvid'
+      start: 0
+      end: 1423
+  e75b906f051a44b2b29bd71fad3a41f4:
+    work_id: W0487252E
+    span:
+      vol: '27th aksaya: Pratibhānapratisaṃvid'
+      start: 0
+      end: 1571
+  78e332c96340496ea88e8140c9cc7113:
+    work_id: W2D2F099F
+    span:
+      vol: '28th akṣaya: Arthapratisaraṇa'
+      start: 0
+      end: 2422
+  9335224c0bd24fd29fff48a4db74ff48:
+    work_id: W043CB344
+    span:
+      vol: '29th akṣaya: Jñānapratisaraṇa'
+      start: 0
+      end: 1303
+  8c8649e185ee4c53903cc25ce420c9d3:
+    work_id: W69F96DB9
+    span:
+      vol: '2nd akṣaya: Āśaya'
+      start: 0
+      end: 2311
+  9ac7e3119285454b86ce6da75d5d0e4b:
+    work_id: W3A82C5FB
+    span:
+      vol: '30th akṣaya: Nītārthasūtrapratisaraṇa'
+      start: 0
+      end: 1394
+  ea0e33383f0e43c583b160c5cb6fc3b9:
+    work_id: W3E93DB1D
+    span:
+      vol: '31th akṣaya: Dharmatāpratisaraṇa'
+      start: 0
+      end: 1476
+  1c5d09ae7b9c4bf59cb1e5c5906fa2bc:
+    work_id: W5AA6716C
+    span:
+      vol: '32nd akṣaya: Puṇyasaṃbhāra'
+      start: 0
+      end: 3417
+  5af5594a8fae484db28af374442da9ca:
+    work_id: W40D54947
+    span:
+      vol: '33rd akṣaya: Jñānasaṃbhāra'
+      start: 0
+      end: 5754
+  5339b440c9f84e43846ccfb02ca01aaa:
+    work_id: W5364C575
+    span:
+      vol: '34th akṣaya: Kāyasmṛtyupasthāna'
+      start: 0
+      end: 2890
+  ff233b27290e47ee96fec7a28256df68:
+    work_id: WFC95D55D
+    span:
+      vol: '35th akṣaya: Vedanāsmṛtyupasthāna'
+      start: 0
+      end: 2866
+  14ba355e4db045f4807d13b9cafd92ff:
+    work_id: WC27447C4
+    span:
+      vol: '36th akṣaya: Cittasmṛtyupasthāna'
+      start: 0
+      end: 3678
+  2f0ae42c41d54abcaacdecc4de98bd85:
+    work_id: W55C9EED3
+    span:
+      vol: '37th akṣaya: Kāyasmṛtyupasthāna'
+      start: 0
+      end: 2936
+  6dcc8f9e059a4d59857d89fdc996f469:
+    work_id: W565B5B70
+    span:
+      vol: '38th-41st akṣaya: Catuḥsamyakprahāṇa'
+      start: 0
+      end: 3898
+  7136ff8cb21549f288b006cbb16fe50f:
+    work_id: W07C5CEE3
+    span:
+      vol: '3rd akṣaya: Prayoga'
+      start: 0
+      end: 4120
+  918ef1f60de2485eb99b8902f40c6c7a:
+    work_id: W494F8A9A
+    span:
+      vol: '42nd-45th akṣaya: Caturṛddhipāda'
+      start: 0
+      end: 1249
+  1ff2b44a46b4438d8ea09ef6aad6766a:
+    work_id: WF6534E8F
+    span:
+      vol: '45th-50th akṣaya: Pañca_indriya'
+      start: 0
+      end: 2098
+  cad1c8ca2e2c4af393f3c75c6def699c:
+    work_id: W1B9DC457
+    span:
+      vol: '4th akṣaya: Adhyāśaya'
+      start: 0
+      end: 2502
+  dad242139999418ab35ad180f7ced722:
+    work_id: W5BD084A4
+    span:
+      vol: '51st-55th akṣaya: Pañcabala'
+      start: 0
+      end: 2159
+  de22110abf064bc787ac8f5cb849fba8:
+    work_id: W79A8CF74
+    span:
+      vol: '56th-62nd akṣaya: Saptabodhyaṅga'
+      start: 0
+      end: 2367
+  cf9478556e6447a8b5184a3ea81fa2b8:
+    work_id: W42DD4854
+    span:
+      vol: '5th akṣaya: Dāna'
+      start: 0
+      end: 5901
+  e71b0dfe6aa14ae0aaa25d5ad761e68e:
+    work_id: WD7C8BEE5
+    span:
+      vol: '63rd-70th akṣaya: Āryāṣṭāṅgamārga'
+      start: 0
+      end: 2770
+  c3b63301e2b44006bb2b9c5f3d0b958a:
+    work_id: W533DE3B9
+    span:
+      vol: '6th akṣaya: Śīla'
+      start: 0
+      end: 5502
+  746a2fcb09d9409da9ce8012fbeb0c59:
+    work_id: W4DC8BBD6
+    span:
+      vol: '71st akṣaya: Śamatha'
+      start: 0
+      end: 992
+  71789ec62c70443193e2c5618170960d:
+    work_id: W98C0AD30
+    span:
+      vol: '72nd akṣaya: Vipaśyanā'
+      start: 0
+      end: 1397
+  475f3f91d21a4e33aaaeba571efa904b:
+    work_id: W59E463BF
+    span:
+      vol: '73rd akṣaya: Dhāraṇī'
+      start: 0
+      end: 568
+  0d41d536d0204695aaf3ff3a7136d9bf:
+    work_id: W43A12E3E
+    span:
+      vol: '74th akṣaya: Pratibhāna'
+      start: 0
+      end: 1428
+  78c8b9ebfba84275a59531051b07ae77:
+    work_id: W5DAF6F0D
+    span:
+      vol: '75th – 78th akṣaya: Dharmoddāna'
+      start: 0
+      end: 1215
+  76b2b217ef284f78a7241e93069cd09b:
+    work_id: WDAAA20B1
+    span:
+      vol: '79th akṣaya: Ekāyano Mārgaḥ'
+      start: 0
+      end: 1275
+  a7d8054101954ed49b6dd8dca3ae4ff6:
+    work_id: WD799EF9F
+    span:
+      vol: '7th akṣaya: Kṣānti'
+      start: 0
+      end: 9610
+  e5d2825058cf4624860dc0e00ba39cc2:
+    work_id: W694DB879
+    span:
+      vol: '80th akṣaya: Upāya'
+      start: 0
+      end: 2080
+  b7b7df42283e48178b8881e0d5183c93:
+    work_id: W16581C55
+    span:
+      vol: '8th akṣaya: Vīrya'
+      start: 0
+      end: 13551
+  a33b18d8fc5b4792b0f95a73214dfeac:
+    work_id: WE8A1F8E0
+    span:
+      vol: '9th akṣaya: Dhyāna'
+      start: 0
+      end: 10466
+  d12989410ac44e6eb786e58e6dfe1a57:
+    work_id: W1042E08A
+    span:
+      vol: I. Nidāna
+      start: 0
+      end: 1950
+  638c08297c884f17bd0d7f51c5cff896:
+    work_id: W9695C519
+    span:
+      vol: II. Upodghāta
+      start: 0
+      end: 21235
+  a57db37790fb458c9313e9108a978c0b:
+    work_id: W9BCAA9EB
+    span:
+      vol: III. Dharmamūla
+      start: 0
+      end: 350
+  6b991fe2c8d249c5854a25f141dca4ff:
+    work_id: W9897FAC4
+    span:
+      vol: IV. Tatphala
+      start: 0
+      end: 14
+  1529233a8301474e8b236c2cf1fe4b24:
+    work_id: W016E49D7
+    span:
+      vol: IX. Nirdeśabalaprāpti
+      start: 0
+      end: 259
+  51153df5ee7f4858aefea104653fc68d:
+    work_id: WEBB68B52
+    span:
+      vol: Title
+      start: 0
+      end: 20
+  e26b9f44987d40d996632570242991a3:
+    work_id: WE932AF39
+    span:
+      vol: V. Svaparārthakriyā
+      start: 0
+      end: 21
+  96b9df31dc9343f19c1511bbdeb1f4ca:
+    work_id: W777788D7
+    span:
+      vol: VI. Kṛpā
+      start: 0
+      end: 10
+  5339ecdf96de478cb33309462935a3e6:
+    work_id: W19FF13EE
+    span:
+      vol: VII. Pariṣkāra
+      start: 0
+      end: 197
+  4d505d982869425fb305d93624500b26:
+    work_id: W59DFB1B6
+    span:
+      vol: VIII. Paripākabala
+      start: 0
+      end: 20
+  17a4eff5c76c43d883655d6ac4ca1159:
+    work_id: W25224074
+    span:
+      vol: X. Tadupāyajñāna
+      start: 0
+      end: 375
+  aeb4d2a6d240492794184eb8e0feb502:
+    work_id: W3CC130F3
+    span:
+      vol: XI. Saṃbhāramārga
+      start: 0
+      end: 107
+  5d006ee6b20d47fba579b5906b47ee2e:
+    work_id: WF02C3FFF
+    span:
+      vol: XII. Prayogamārga
+      start: 0
+      end: 300
+  6bd3e4051144406ea3fef53ef4d1583d:
+    work_id: W8A2F2C1D
+    span:
+      vol: XIII. Darśanamārga
+      start: 0
+      end: 20
+  48f0e410a2954a7db0360d1ae3c55abb:
+    work_id: W2483D0FD
+    span:
+      vol: XIV. Bhāvanāmārga
+      start: 0
+      end: 19
+  99e154b14b8e4bab9f0ea6be65986c5f:
+    work_id: W295ACA11
+    span:
+      vol: XIX. Dharmacakrapravartana
+      start: 0
+      end: 28
+  6bf0acd203074fa2a8dfeba3cb287878:
+    work_id: W1D641074
+    span:
+      vol: XV. Tatprayoga
+      start: 0
+      end: 100
+  63487df410f34295920b95bba796680d:
+    work_id: W4FEED378
+    span:
+      vol: XVI. Vyākaraṇaprāpti
+      start: 0
+      end: 107
+  2047bacdc86b4d3aa156010c36079461:
+    work_id: WB71001CB
+    span:
+      vol: XVII. Tatprāptivyavasthāpanā
+      start: 0
+      end: 30
+  051f36bc726d4d1da76e6f909892d19b:
+    work_id: WF4DF6282
+    span:
+      vol: XVIII. Pratyekabodhi
+      start: 0
+      end: 22
+  0b7126efc1a04d3484eed04475e3df63:
+    work_id: WB9462F4B
+    span:
+      vol: XX. Parindanā
+      start: 0
+      end: 10687
